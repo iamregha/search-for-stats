@@ -1,0 +1,24 @@
+body{
+    background: #f2f4fb;
+    display : flex;
+    justify-content: center;
+    align-content: center;
+    font-family: sans-serif;
+}
+
+.content > div{
+    padding: 25px 20px;
+    border-radius: 10px;
+}
+
+.calculator{
+    background-color: #e4e6f6;
+}
+
+.name-stat{
+    background-color: #f6e4f5;
+}
+
+.stat-table{
+    background-color: #fae5e5;
+}
